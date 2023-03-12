@@ -236,45 +236,7 @@
           ]
         }
       ]
-    },
-    {
-      "id": 4,
-      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXHkLS2Z0wW7q_qAzyVjsOOcZHdDhZEHQAwg&usqp=CAU",
-      "name": "sevugjskdfv",
-      "questions": [
-        {
-          "id": 1,
-          "text": "zefefazecfae",
-          "correct": 1,
-          "answer": "fzefzefz",
-          "options": [
-            {
-              "id": 1,
-              "text": "1"
-            },
-            {
-              "id": 2,
-              "text": "3"
-            }
-          ]
-        },
-        {
-          "id": 2,
-          "text": "zerferzfref",
-          "correct": 1,
-          "answer": "zdefzedzf",
-          "options": [
-            {
-              "id": 1,
-              "text": "3"
-            },
-            {
-              "id": 2,
-              "text": "2"
-            }
-          ]
-        }
-      ]
     }
+    
   ]
 }
