@@ -243,37 +243,37 @@
     {
       "id": 1,
       "content":"good2",
-      "quiz_id":1
+      "quizId":1
 
     },
     {
       "id": 1,
       "content":"good3",
-      "quiz_id":1
+      "quizId":1
       
     },
     {
       "id": 1,
       "content":"good5",
-      "quiz_id":1
+      "quizId":1
       
     },
     {
       "id": 1,
       "content":"good",
-      "quiz_id":1
+      "quizId":1
       
     },
     {
       "id": 2,
       "content":"good",
-      "quiz_id":1
+      "quizId":1
       
     },
     {
       "id": 3,
       "content":"good",
-      "quiz_id":1
+      "quizId":1
       
     }
   ]
